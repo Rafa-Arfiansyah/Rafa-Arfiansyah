@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently building **Valerie Connect**, a platform focused on APIs, bots, and automation solutions.
-- 🌱 Continuously learning and enhancing my skills in **React**, **Laravel**, and bot development.
+- 🌱 Continuously learning and enhancing my skills in **React**, **Laravel**, **Vue** and bot development.
 - 📨 Reach me at [rap.astore73@gmail.com](mailto:rap.astore73@example.com)
 
 ---
