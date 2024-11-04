@@ -56,7 +56,7 @@
 
 ---
 
-> **"Setiap hari adalah kesempatan untuk belajar dan berkembang. Mari ciptakan sesuatu yang hebat bersama!"**
+> **"Setiap hari adalah kesempatan untuk belajar dan berkembang. Lets touch the Moon!"**
 
 ---
 
