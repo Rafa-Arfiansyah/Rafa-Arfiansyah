@@ -41,7 +41,7 @@
 ---
 
 ### 🌐 Projects
-- **[Valerie Connect](https://valerieconnect.shop)**: API service platform for automation and bot solutions.
+- **[ValconRest-API](https://valconrest.my.id)**: API service platform for automation and bot solutions.
 - **Portfolio Website**: Showcasing my best UI/UX work and web development projects.
 - **Open-Source Jadibot**: An API-based bot for communities, open for contributions.
 
