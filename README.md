@@ -1,11 +1,11 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:3px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 <h1> 💫 About Me </h1>
-<h2>Hi, I'm Rafa Arfiansyah Raif! 👋</h3> 
+<h2>Hi, I'm Rafa Arfiansyah Raif! 👋</h3>
 <h3>
   - 🔭 Frontend Developer with 1+ years of experience designing and building responsive, high-performance web applications<br/>
   - 🌐 Passionate about user-centric design and creating intuitive, seamless experiences using modern web technologies<br/>
-  - ⚡ Experienced with React, Angular, and Vue.js, along with HTML5, CSS3, and JavaScript<br/>
+  - ⚡ Experienced with React, Next.js, and Vue.js, along with HTML5, CSS3, and JavaScript<br/>
   - 🎨 Expertise in UI/UX design and prototyping, with a strong eye for aesthetics and usability<br/>
   - 🚀 Familiar with modern front-end tooling and workflows, including Webpack, Babel, and npm<br/>
 </h3>
@@ -50,6 +50,9 @@
 <a href="https://www.docker.com/" target="_blank">
   <img align="left" alt="Docker" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" />
 </a>
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="Git" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/git.svg" />
+</a>
 <br/><br/>
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -82,5 +85,3 @@
 </table>
 
 <a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
-
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211
