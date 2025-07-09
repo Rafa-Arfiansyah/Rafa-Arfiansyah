@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
 </p>
+
 ### 💻 Languages  
 <p>
   <img alt="JavaScript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
