@@ -1,4 +1,6 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding:3px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<p align="center">
+  <img alt="Welcome Banner" width="100%" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" />
+</p>
 
 # 💫 About Me  
 ## Hi, I'm Rafa Arfiansyah Raif! 👋
@@ -10,59 +12,48 @@
 - 🚀 Familiar with modern front-end tooling and workflows, including Webpack, Babel, and npm  
 - 🧠 Also experienced in **Roblox Lua (Luau)** scripting for gameplay mechanics, GUI, module systems, and multiplayer logic  
 
----
 
-## 👾 Roblox Developer (Luau Scripter)  
-![roblox](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/roblox.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
+</p>
 
-🎮 Skilled in scripting core gameplay systems using **Roblox Lua (Luau)**, including:  
-- ✅ Checkpoint systems, leaderstats, coin pickup, kill zones  
-- ✅ Interactive GUI (TextButtons, tweened transitions, menu systems)  
-- ✅ RemoteEvents, RemoteFunctions, ModuleScripts & LocalScripts  
-- ✅ TweenService, UserInputService, ProximityPrompt, etc  
-- ✅ Structured, reusable, and optimized code logic  
+# 🛠 My Skill Sets  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
+</p>
+### 💻 Languages  
+<p>
+  <img alt="JavaScript" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
+  <img alt="Python" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
+  <img alt="Lua" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
+</p>
 
-💼 Actively building projects for **obby**, **simulator**, and **story-based games**  
-🔗 *Demo or private GitHub repositories available on request*  
-
----
-
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
-# 💻 My Skill Sets  
-
-### 🧠 Languages  
-![JavaScript](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg)  
-![Python](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg)  
-![Lua](https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg)
-
-### 📚 Libraries  
-![React](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg)  
-![Node.js](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif)
+### 📚 Libraries & Tools  
+<p>
+  <img alt="React" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
+  <img alt="Node.js" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" />
+  <img alt="GitHub" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" />
+</p>
 
 ### 🌐 Frameworks  
-![Next.js](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg)  
-![Tailwind CSS](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg)  
-![Angular](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif)  
-![Vue](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif)  
-![Bootstrap](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif)
+<p>
+  <img alt="Next.js" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" />
+  <img alt="Tailwind CSS" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" />
+  <img alt="Vue" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" />
+  <img alt="Bootstrap" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" />
+</p>
 
 ### 🗄️ Databases  
-![PostgreSQL](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg)  
-![MySQL](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg)  
-![MongoDB](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif)
+<p>
+  <img alt="MongoDB" width="40px" style="margin:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" />
+</p>
 
-### 🛠️ Tools & DevOps  
-![GitHub](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg)  
-![AWS](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg)  
-![Docker](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg)  
-![Git](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/git.svg)
-
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
+</p>
 
 # 📊 My GitHub Stats  
+
 <table align="center">
   <tr>
     <td align="center" width="45%">
@@ -84,4 +75,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" />
 </p>
